@@ -14,7 +14,7 @@ A starter project that makes creating a TypeScript library extremely easy.
 ### Usage
 
 ```bash
-git clone https://github.com/alexjoverm/typescript-library-starter.git YOURFOLDERNAME
+git clone git@github.com:jsykes/typescript-library-starter.git YOURFOLDERNAME
 cd YOURFOLDERNAME
 
 # Run npm install and write your library name when asked. That's all!
@@ -33,6 +33,8 @@ npm install
  - Automatic types `(*.d.ts)` file generation
  - **[Travis](https://travis-ci.org)** integration and **[Coveralls](https://coveralls.io/)** report
  - (Optional) **Automatic releases and changelog**, using [Semantic release](https://github.com/semantic-release/semantic-release), [Commitizen](https://github.com/commitizen/cz-cli), [Conventional changelog](https://github.com/conventional-changelog/conventional-changelog) and [Husky](https://github.com/typicode/husky) (for the git hooks)
+ 
+ * Note that the releases, code-coverage reports, and library publishing is disabled by default to prevent accidental releases of sensitive data. You can re-enable these behaviors in the .travis.yml file.
 
 ### Importing library
 
