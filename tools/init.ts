@@ -19,8 +19,7 @@ const rmFiles = [
   "tools/init.ts",
   "LICENSE",
   "code-of-conduct.md",
-  "CONTRIBUTING.md",
-  "README.md"
+  "CONTRIBUTING.md"
 ]
 const modifyFiles = [
   "LICENSE",

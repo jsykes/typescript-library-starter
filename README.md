@@ -28,7 +28,7 @@ npm install
  - Zero-setup. After running `npm install` things will setup for you :wink:
  - **[RollupJS](https://rollupjs.org/)** for multiple optimized bundles following the [standard convention](http://2ality.com/2017/04/setting-up-multi-platform-packages.html) and [Tree-shaking](https://alexjoverm.github.io/2017/03/06/Tree-shaking-with-Webpack-2-TypeScript-and-Babel/)
  - Tests, coverage and interactive watch mode using **[Jest](http://facebook.github.io/jest/)**
- - **[Prettier](https://github.com/prettier/prettier)** and **[TSLint](https://palantir.github.io/tslint/)** for code formatting and consistency
+ - **[Prettier](https://github.com/prettier/prettier)** and **[ESLint](https://eslint.org/docs/user-guide/getting-started)** for code formatting and consistency
  - **Docs automatic generation and deployment** to `gh-pages`, using **[TypeDoc](http://typedoc.org/)**
  - Automatic types `(*.d.ts)` file generation
  - **[Travis](https://travis-ci.org)** integration and **[Coveralls](https://coveralls.io/)** report
