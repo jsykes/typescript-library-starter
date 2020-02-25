@@ -13,6 +13,8 @@ A starter project that makes creating a TypeScript library extremely easy.
 
 ### Usage
 
+*Confirmed working with Node v12. (not v8.9.1)*
+
 ```bash
 git clone git@github.com:jsykes/typescript-library-starter.git YOURFOLDERNAME
 cd YOURFOLDERNAME
